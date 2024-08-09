@@ -5,6 +5,11 @@
   background-clip: text;
   text-fill-color: transparent;
 }
+.active {
+  background: linear-gradient(0deg, #2e3e8d 0%, #4db1e1 100%);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 .text-gray {
   color: #a4a8b5;
 }
